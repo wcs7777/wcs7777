@@ -1,6 +1,7 @@
 
 
 
+
 <h1 align="center"><b>Hi , I'm Willian Carlos da Silva </b></h1>
 
 
@@ -103,9 +104,9 @@
 <div align="center">
 
 <a href="https://github.com/wcs7777/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wcs7777&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://readmestats.999857.xyz/api/top-langs?username=wcs7777&show_icons=true&locale=en&layout=compact&line_height=20" width="375"  alt="0xabdulkhalid"/>
 	
-  <img src="https://github-readme-stats.vercel.app/api?username=wcs7777&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://readmestats.999857.xyz/api?username=wcs7777&include_all_commits=true&count_private=true&show_icons=true&line_height=20" width="450"/>
 </a>
 </div>
 
@@ -117,52 +118,52 @@
 <div>
   <p align="center">
 	<a href="https://github.com/wcs7777/pronunciation-extension">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcs7777&repo=pronunciation-extension&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://readmestats.999857.xyz/api/pin/?username=wcs7777&repo=pronunciation-extension" alt="GitHub Stats" />
     	</a>
     </p>
     <p align="center">
 	<a href="https://github.com/wcs7777/arranke">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcs7777&repo=arranke&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://readmestats.999857.xyz/api/pin/?username=wcs7777&repo=arranke" alt="GitHub Stats" />
     	</a>
     </p>
     <p align="center">
 	<a href="https://github.com/wcs7777/speed-reader">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcs7777&repo=speed-reader&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://readmestats.999857.xyz/api/pin/?username=wcs7777&repo=speed-reader" alt="GitHub Stats" />
     	</a>
     </p>
     <p align="center">
 	<a href="https://github.com/wcs7777/confeccao">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcs7777&repo=confeccao&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://readmestats.999857.xyz/api/pin/?username=wcs7777&repo=confeccao" alt="GitHub Stats" />
     	</a>
     </p>
     <p align="center">
 	<a href="https://github.com/wcs7777/radio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcs7777&repo=radio&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://readmestats.999857.xyz/api/pin/?username=wcs7777&repo=radio" alt="GitHub Stats" />
     	</a>
     </p>
     <p align="center">
 	<a href="https://github.com/wcs7777/attornatus">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcs7777&repo=attornatus&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://readmestats.999857.xyz/api/pin/?username=wcs7777&repo=attornatus" alt="GitHub Stats" />
     	</a>
     </p>
     <p align="center">
 	<a href="https://github.com/wcs7777/ofwgkta">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcs7777&repo=ofwgkta&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://readmestats.999857.xyz/api/pin/?username=wcs7777&repo=ofwgkta" alt="GitHub Stats" />
     	</a>
     </p>
     <p align="center">
 	<a href="https://github.com/wcs7777/alarme">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcs7777&repo=alarme&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://readmestats.999857.xyz/api/pin/?username=wcs7777&repo=alarme" alt="GitHub Stats" />
     	</a>
     </p>
     <p align="center">
 	<a href="https://github.com/wcs7777/my-firefox-extensions">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcs7777&repo=my-firefox-extensions&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://readmestats.999857.xyz/api/pin/?username=wcs7777&repo=my-firefox-extensions" alt="GitHub Stats" />
     	</a>
     </p>
     <p align="center">
 	<a href="https://github.com/wcs7777/data-structures">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=wcs7777&repo=data-structures&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://readmestats.999857.xyz/api/pin/?username=wcs7777&repo=data-structures" alt="GitHub Stats" />
     	</a>
     </p>
 </div>
